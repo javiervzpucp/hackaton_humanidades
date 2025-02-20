@@ -17,10 +17,8 @@ El evento se divide en **dos talleres** y un **día de desarrollo práctico**, d
 - Uso de APIs gratuitas como **Hugging Face** y **Cohere**.
 - Procesamiento y análisis de un **corpus histórico del siglo XIX**.
 - Extracción de metadatos, resúmenes y clasificación automática de documentos.
-- [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javiervzpucp/hackaton_humanidades/blob/main/Taller-LLM.ipynb)
 
-
-📌 **Archivo:** [`Taller_1_LLMs_Python.ipynb`](Taller_1_LLMs_Python.ipynb)
+📌 **Archivo:** [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javiervzpucp/hackaton_humanidades/blob/main/Taller-LLM.ipynb)
 
 #### 🔹 **Taller 2: Uso de RAG en plataformas sin código** (para los que no programan)
 - Introducción a **Retrieval-Augmented Generation (RAG)**.
@@ -28,7 +26,7 @@ El evento se divide en **dos talleres** y un **día de desarrollo práctico**, d
 - Indexación y búsqueda avanzada en documentos históricos.
 - Creación de asistentes conversacionales para archivos históricos.
 
-📌 **Archivo:** [`Taller_2_RAG.md`](Taller_2_RAG.md)
+📌 **Archivo:** [`Taller-RAG.md`](Taller-RAG.md)
 
 ---
 
@@ -39,7 +37,7 @@ El evento se divide en **dos talleres** y un **día de desarrollo práctico**, d
 - Desarrollo de proyectos aplicando **LLMs y/o RAG**.
 - Presentación de prototipos con retroalimentación y evaluación.
 
-📌 **Archivo:** [`Dia_2_Aplicaciones_Practicas.md`](Dia_2_Aplicaciones_Practicas.md)
+📌 **Archivo:** [`Día_2.md`](Día 2.md)
 
 ---
 
@@ -61,7 +59,7 @@ Para el **Taller 1**, instala las dependencias ejecutando en **Google Colab**:
 !pip install requests pandas langchain transformers
 ```
 
-Para el **Taller 2**, sigue las instrucciones en [`Taller_2_RAG.md`](Taller_2_RAG.md) para acceder a las plataformas No-Code.
+Para el **Taller 2**, sigue las instrucciones en [`Taller-RAG.md`](Taller-RAG.md) para acceder a las plataformas No-Code.
 
 ---
 
