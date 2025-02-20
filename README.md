@@ -1,7 +1,7 @@
 # 🚀 Hackatón de Humanidades Digitales: LLMs y RAG
 
 ## 📌 Descripción
-Este hackatón está diseñado para estudiantes de humanidades interesados en explorar el potencial de los **Modelos de Lenguaje Grande (LLMs)** y el **Retrieval-Augmented Generation (RAG)** para analizar documentos históricos transcritos con **Transkribus**.
+Este hackatón está diseñado para estudiantes de humanidades interesados en explorar el potencial de los **Modelos Grandes de Lenguaje (LLMs)** y el **Retrieval-Augmented Generation (RAG)** para analizar documentos históricos transcritos con **Transkribus**.
 
 El evento se divide en **dos talleres** y un **día de desarrollo práctico**, donde los participantes aprenderán a trabajar con **APIs gratuitas** para implementar soluciones innovadoras en humanidades digitales.
 
