@@ -17,6 +17,8 @@ El evento se divide en **dos talleres** y un **día de desarrollo práctico**, d
 - Uso de APIs gratuitas como **Hugging Face** y **Cohere**.
 - Procesamiento y análisis de un **corpus histórico del siglo XIX**.
 - Extracción de metadatos, resúmenes y clasificación automática de documentos.
+- [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/javiervzpucp/hackaton_humanidades/blob/main/Taller-LLM.ipynb)
+
 
 📌 **Archivo:** [`Taller_1_LLMs_Python.ipynb`](Taller_1_LLMs_Python.ipynb)
 
