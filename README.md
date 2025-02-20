@@ -37,7 +37,7 @@ El evento se divide en **dos talleres** y un **día de desarrollo práctico**, d
 - Desarrollo de proyectos aplicando **LLMs y/o RAG**.
 - Presentación de prototipos con retroalimentación y evaluación.
 
-📌 **Archivo:** [`Día_2.md`](Día 2.md)
+📌 **Archivo:** [`Día_2.md`](Día_2.md)
 
 ---
 
