@@ -8,7 +8,25 @@ Aprender a utilizar plataformas de **Retrieval-Augmented Generation (RAG)** para
 ## 📌 ¿Qué es RAG?
 **Retrieval-Augmented Generation (RAG)** es una técnica que combina modelos de lenguaje con bases de datos o documentos para mejorar la precisión y relevancia de las respuestas generadas.
 
-**Ejemplo de uso en Humanidades Digitales:**
+### 1. ¿Qué es?
+- **Retrieval-Augmented Generation (RAG)** es un enfoque que combina:
+  - **Recuperación de información**: Accede a documentos relevantes.
+  - **Generación de texto**: Usa IA para producir respuestas precisas.
+- Mejora la calidad de la información al basarse en fuentes verificadas.
+
+### 2. ¿Cómo funciona?
+1. **Entrada del usuario**: Se formula una pregunta o consulta.
+2. **Búsqueda de información**:
+   - Se accede a una base de datos o corpus digital.
+   - Se usa búsqueda semántica para encontrar los textos más relevantes.
+3. **Procesamiento**:
+   - Los documentos recuperados se envían a un modelo de lenguaje.
+   - Se analizan los contenidos para generar una respuesta coherente.
+4. **Generación de respuesta**:
+   - El modelo produce una respuesta basada en los datos obtenidos.
+   - Se mejora la precisión al evitar depender solo del conocimiento preentrenado.
+
+### 3. Ejemplos de uso en Humanidades Digitales:
 - Acceso a documentos históricos mediante consultas en lenguaje natural.
 - Exploración de archivos digitales con recuperación semántica avanzada.
 - Creación de asistentes de archivo con búsqueda de contenido en documentos.
