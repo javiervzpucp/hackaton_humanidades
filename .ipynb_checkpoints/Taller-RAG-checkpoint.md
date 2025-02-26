@@ -5,7 +5,7 @@ Aprender a utilizar plataformas de **Retrieval-Augmented Generation (RAG)** para
 
 ---
 
-## 📌 ¿Qué es RAG?
+## 📌 ¿RAGs? 😸
 **Retrieval-Augmented Generation (RAG)** es una técnica que combina modelos de lenguaje con bases de datos o documentos para mejorar la precisión y relevancia de las respuestas generadas.
 
 ### 1. ¿Qué es?
